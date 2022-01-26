@@ -1,0 +1,15 @@
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\bin\Debug\net6.0\ActivitiesCSharp.exe
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\bin\Debug\net6.0\ActivitiesCSharp.deps.json
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\bin\Debug\net6.0\ActivitiesCSharp.runtimeconfig.json
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\bin\Debug\net6.0\ActivitiesCSharp.dll
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\bin\Debug\net6.0\ref\ActivitiesCSharp.dll
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\bin\Debug\net6.0\ActivitiesCSharp.pdb
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ActivitiesCSharp.csproj.AssemblyReference.cache
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ActivitiesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ActivitiesCSharp.AssemblyInfoInputs.cache
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ActivitiesCSharp.AssemblyInfo.cs
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ActivitiesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ActivitiesCSharp.dll
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ref\ActivitiesCSharp.dll
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ActivitiesCSharp.pdb
+C:\Users\ka_ka\Desktop\ActivitiesCSharp\obj\Debug\net6.0\ActivitiesCSharp.genruntimeconfig.cache
